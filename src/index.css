@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #080E1C;
+  --color-panel: #0E1626;
+  --color-panel-two: #101A2E;
+  --color-hair: #1F2C45;
+  --color-paper: #FBFCFF;
+  --color-paper-dim: #C7CFE0;
+  --color-brand-green: #12CC43;
+  --color-brand-green-dim: #0C9433;
+  --color-brand-red: #F01A25;
+  --color-brand-gold: #F5C842;
+  --color-brand-blue: #7FBBFF;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Montserrat", sans-serif;
+  --font-mono: "Roboto Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-paper);
+}

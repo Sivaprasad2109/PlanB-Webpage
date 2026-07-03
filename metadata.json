@@ -1,0 +1,6 @@
+{
+  "name": "PlanB Solutions",
+  "description": "SEBI-registered investment advisor and stock market advisory platform offering Equity Research, Options Strategies, and Commodity trading insights with risk-defined plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
